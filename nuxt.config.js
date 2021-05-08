@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'base-apparel-coming-soon',
+    title: 'Frontend Mentor | Base Apparel coming soon page',
     htmlAttrs: {
       lang: 'en'
     },
@@ -14,7 +14,9 @@ export default {
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: "icon", type: "image/png", href: "/favicon-32x32.png" },
+      { rel: "preconnect", href: "https://fonts.gstatic.com"},
+      { href: "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;600&display=swap", rel: "stylesheet" }
     ]
   },
 
