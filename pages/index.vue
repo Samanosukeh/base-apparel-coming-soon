@@ -2,21 +2,23 @@
   <div class="">
     <div class="flex flex-row min-h-screen">
       <div class="fundo-svg"></div><!-- Background svg -->
-      <div class="gradiente-2 pt-16 mx-28">
-        <div class="uppercase tracking-widest text-6xl text-left text-neutral-dark-grayish-red">
-          <header><img src="/image/logo.svg" alt=""></header>
-          <p class="text-primary-desaturated-red mt-20 font-light">We're</p>
-          coming<br> soon
-        </div>
-        <p class="text-primary-desaturated-red mt-8 text-left">
-          Hello fellow shoppers! We're currently building our new fashion store. 
-          Add your email below to stay up-to-date with announcements and our launch deals.
+      <div class="gradiente-2 pt-16 w-3/5">
+        <div class="px-28">
+          <div class="uppercase tracking-widest text-6xl text-left text-neutral-dark-grayish-red">
+            <header><img src="/image/logo.svg" alt=""></header>
+            <p class="text-primary-desaturated-red mt-20 font-light">We're</p>
+            coming<br> soon
+          </div>
+          <p class="text-primary-desaturated-red mt-8 text-left">
+            Hello fellow shoppers! We're currently building our new fashion store. 
+            Add your email below to stay up-to-date with announcements and our launch deals.
 
-          Email Address
-        </p>
+            Email Address
+          </p>
+        </div>
       </div>
-      <div class="w-auto"> <!--w-3/5 w-2/5  bg-neutral-dark-grayish-red  -->
-        <img class="h-screen object-cover" src="/image/hero-desktop.jpg" alt="">
+      <div class="w-2/5"> <!--w-3/5 w-2/5  bg-neutral-dark-grayish-red  -->
+        <img class="h-screen object-cover w-full" src="/image/hero-desktop.jpg" alt="">
       </div>
     </div>
     
