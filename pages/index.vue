@@ -5,7 +5,8 @@
       <div class="gradiente-2 pt-16 w-3/5">
         <div class="px-28">
           <div class="uppercase tracking-widest text-6xl text-left text-neutral-dark-grayish-red">
-            <header><img src="/image/logo.svg" alt=""></header>
+            <header><img src="/image/logo.svg" alt="Logo"></header>
+            <img src="/image/hero-desktop.jpg" alt="Cover" class="w-full h-64 object-cover hidden xs:visible sm:visible md:invisible lg:invisible xl:invisible">
             <p class="text-primary-desaturated-red mt-20 font-light">We're</p>
             coming<br> soon
           </div>
@@ -17,7 +18,7 @@
           </p>
         </div>
       </div>
-      <div class="w-2/5"> <!--w-3/5 w-2/5  bg-neutral-dark-grayish-red  -->
+      <div class="w-2/5 visible xs:invisible sm:visible md:visible lg:visible">
         <img class="h-screen object-cover w-full" src="/image/hero-desktop.jpg" alt="">
       </div>
     </div>
