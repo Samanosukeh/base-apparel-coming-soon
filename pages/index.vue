@@ -19,6 +19,7 @@
               <button class="text-white bg-gradient-to-r from-primary-desaturated-red to-primary-soft-red px-6 py-2 rounded-3xl -xl-24 z-10">></button>
             </div>
           </p>
+          
         </div>
       </div>
       <div class="xs:w-0 sm:w-2/5 lg:w-2/5 visible xs:invisible sm:visible md:visible lg:visible">
