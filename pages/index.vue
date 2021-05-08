@@ -2,15 +2,15 @@
   <div class="">
     <div class="flex flex-row min-h-screen">
       <div class="fundo-svg"></div><!-- Background svg -->
-      <div class="gradiente-2 pt-16 w-3/5">
-        <div class="xs:px-12 sm:px-0 md:px-24 lg:px-28">
-          <div class="uppercase tracking-widest xs:text-3xl sm:text-4xl md:text-5xl lg:text6xl text-6xl text-left text-neutral-dark-grayish-red">
-            <header><img src="/image/logo.svg" alt="Logo"></header>
-            <img src="/image/hero-desktop.jpg" alt="Cover" class="w-full h-64 object-cover hidden xs:visible sm:visible md:invisible lg:invisible xl:invisible">
+      <div class="gradiente-2 xs:pt-6 sm:pt-12 md:pt-16 lg:pt-16 xs:w-full lg:w-3/5">
+        <div class="">
+          <div class="uppercase tracking-widest xs:text-3xl sm:text-4xl md:text-5xl lg:text6xl text-6xl xs:text-center text-left text-neutral-dark-grayish-red">
+            <header class="xs:px-8 sm:px-12 md:px-12 lg:px-28"><img src="/image/logo.svg" alt="Logo"></header>
+            <img src="/image/hero-mobile.jpg" alt="Cover" class="w-full object-cover mt-6 xs:visible sm:hidden md:hidden lg:hidden xl:hidden">
             <p class="text-primary-desaturated-red mt-20 font-light">We're</p>
             coming<br> soon
           </div>
-          <p class="text-primary-desaturated-red mt-8 text-left">
+          <p class="text-primary-desaturated-red mt-8 text-left xs:px-8 sm:px-12 md:px-12 lg:px-28">
             Hello fellow shoppers! We're currently building our new fashion store. 
             Add your email below to stay up-to-date with announcements and our launch deals.
 
@@ -18,7 +18,7 @@
           </p>
         </div>
       </div>
-      <div class="w-2/5 visible xs:invisible sm:visible md:visible lg:visible">
+      <div class="xs:w-0 sm:w-2/5 lg:w-2/5 visible xs:invisible sm:visible md:visible lg:visible">
         <img class="h-screen object-cover w-full" src="/image/hero-desktop.jpg" alt="">
       </div>
     </div>
