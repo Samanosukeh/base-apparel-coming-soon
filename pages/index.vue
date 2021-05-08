@@ -18,6 +18,7 @@
               <input class="shadow -mr-10 appearance-none border border-primary-desaturated-red placeholder-primary-desaturated-red rounded-3xl py-2 px-8" placeholder="Email Address">
               <button class="text-white bg-gradient-to-r from-primary-desaturated-red to-primary-soft-red px-6 py-2 rounded-3xl -xl-24 z-10">></button>
             </div>
+            
           </p>
           
         </div>
