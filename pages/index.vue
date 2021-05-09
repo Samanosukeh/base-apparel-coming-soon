@@ -31,12 +31,12 @@
       </div>
     </div>
     
-    <!-- <footer class="absolute bottom-0 flex align-center justify-center mx-auto">
+    <footer class="teste">
       <p class="attribution">
-        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-        Coded by <a href="#">Samanosuke</a>.
+        Challenge by <a class="text-primary-soft-red" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+        Coded by <a class="text-primary-soft-red hover:bg-gradient-left" href="https://www.samanosuke.com.br/" target="_blank">Samanosuke</a>.
       </p>
-    </footer> -->
+    </footer>
   </div>
 </template>
 
@@ -86,14 +86,6 @@ export default {
   @apply min-h-screen flex justify-center items-center text-center mx-auto;
 }
 
-.gradiente-1 {
-   background: linear-gradient(135deg, from hsl(0, 0%, 100%), to hsl(0, 100%, 98%));
-}
-
-.gradiente-2 {
-   background: conic-gradient(135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%));
-}
-
 .fundo-svg {
   background: url('/image/bg-pattern-desktop.svg');
   position: absolute;
@@ -103,14 +95,13 @@ export default {
   overflow-x: hidden;
 }
 
-/* Sample `apply` at-rules with Tailwind CSS
-*/
-/* .container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-} */
+
+.teste {
+  position: fixed;
+  width: 500px;
+  height: 20px;
+  bottom: 0;
+  left: 50%;
+  margin-left: -250px; /* Negative half of width. */
+}
 </style>
