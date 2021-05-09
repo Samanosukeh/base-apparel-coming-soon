@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 #### My Solution
-<img src="https://github.com/Samanosukeh/base-apparel-coming-soon/blob/master/Screenshot.png" width="100%" >
+<img src="https://github.com/Samanosukeh/base-apparel-coming-soon/blob/master/Screenshot1.png" width="100%" >
 
 
 ### Links
