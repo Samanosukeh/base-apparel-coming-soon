@@ -1,9 +1,9 @@
-# Frontend Mentor - Single price grid component
-![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+# Frontend Mentor - Base Apparel coming soon 
+![Design preview for the Base Apparel coming soon component coding challenge](./design/desktop-preview.jpg)
 
-# Frontend Mentor - Single price grid component solution
+# Frontend Mentor - Base Apparel coming soon page solution
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
