@@ -27,12 +27,12 @@ Users should be able to:
 
 ### Screenshot
 #### My Solution
-<img src="https://github.com/Samanosukeh/base-apparel-comming-soon/Screenshot.png" width="100%" >
+<img src="https://github.com/Samanosukeh/base-apparel-coming-soon/blob/master/Screenshot.png" width="100%" >
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://base-apparel-coming-soon-gules-pi.vercel.app)
+- Solution URL: [Demo](https://base-apparel-coming-soon-gules-pi.vercel.app)
 
 ## My process
 
