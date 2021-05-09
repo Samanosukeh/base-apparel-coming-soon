@@ -11,6 +11,10 @@ module.exports = {
       neutral: {
         'dark-grayish-red': '#413A3A'
       },
+      gradient: {
+        left: 'hsl(0, 80%, 86%)',
+        right: 'hsl(0, 74%, 74%)',
+      }
     },
     extend: {
       fontFamily: {
